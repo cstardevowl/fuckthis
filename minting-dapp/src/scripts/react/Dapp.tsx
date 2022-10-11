@@ -68,9 +68,9 @@ export default class Dapp extends React.Component<Props, State> {
     if (browserProvider?.isMetaMask !== true) {
       this.setError(
         <>
-          unable to&nbsp; d e t e c t <strong>metamask</strong> <strong></strong> <br />
+          unable to&nbsp; d e t e c t &nbsp; a <strong>metamask wallet</strong> <strong></strong> <br />
           <br />
-          hey...<span className="emoji"></span> i n t e r a c t &nbsp; directly here<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>  <strong></strong><br />
+          <span className="emoji"></span> i n t e r a c t &nbsp; directly here &nbsp; <a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>  <strong></strong><br />
           <br />
            <strong></strong> 
         </>,
@@ -220,7 +220,7 @@ export default class Dapp extends React.Component<Props, State> {
                   />
                   :
                   <div className="collection-sold-out">
-                    <h2>tokens have been <strong>s o l d  o u t</strong>! <span className="emoji">🥳</span></h2>
+                    <h2>tokens have been <strong>s o l d  o u t</strong>! <span className="emoji">😭</span></h2>
 
                     you can now find on <a href={this.generateMarketplaceUrl()} target="_blank">{CollectionConfig.marketplaceConfig.name}</a>.
                   </div>
