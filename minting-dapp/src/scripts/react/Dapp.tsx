@@ -243,13 +243,14 @@ export default class Dapp extends React.Component<Props, State> {
 
             <div className="use-block-explorer">
               
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
-              &nbsp;&nbsp;&nbsp;if &nbsp; you &nbsp; c h o o s e &nbsp; to &nbsp;  &nbsp;c o l l e c t &nbsp;&nbsp; any of my&nbsp; i t e m s &nbsp; <br /> 
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in &nbsp;this &nbsp;next &nbsp;p h a s e &nbsp; of the
-              &nbsp;j o u r n e y<br /> 
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;please &nbsp; u n d e r s t a n d &nbsp;&nbsp; that <br />
+              h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
+              if &nbsp; you &nbsp; c h o o s e &nbsp; to &nbsp;  &nbsp;c o l l e c t &nbsp;&nbsp; any of my&nbsp; i t e m s &nbsp; <br /> 
+              in &nbsp;this &nbsp;next &nbsp;p h a s e &nbsp; of the &nbsp;j o u r n e y please <br />
+              u n d e r s t a n d &nbsp;&nbsp; that <br />
+               
+              
               <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">🎮☠</span>&nbsp;h a r d m o d e&nbsp;&nbsp;i s&nbsp;&nbsp; o n <span className="emoji">☠🎮</span> <br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">🎮☠</span>&nbsp;h a r d m o d e&nbsp;&nbsp;i s&nbsp;&nbsp; o n <span className="emoji">☠🎮</span> <br />
               <br />
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">⚠️</span>&nbsp;p r o c e e d &nbsp;&nbsp;at&nbsp;&nbsp; your&nbsp;own&nbsp;&nbsp;r i s k&nbsp;<span className="emoji">⚠️</span> <br />
               <br />
