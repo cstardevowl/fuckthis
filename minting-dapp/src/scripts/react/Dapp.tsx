@@ -245,8 +245,8 @@ export default class Dapp extends React.Component<Props, State> {
               
               h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
               if &nbsp; you &nbsp; c h o o s e &nbsp; to &nbsp;  &nbsp;c o l l e c t &nbsp;&nbsp; any of my&nbsp; i t e m s &nbsp; <br /> 
-              in &nbsp;this &nbsp;next &nbsp;p h a s e &nbsp; of the &nbsp;j o u r n e y please <br />
-              u n d e r s t a n d &nbsp;&nbsp; that <br />
+              please&nbsp; u n d e r s t a n d &nbsp;&nbsp; that <br />
+              
                
 
               <br />
