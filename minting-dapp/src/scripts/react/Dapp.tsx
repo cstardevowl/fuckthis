@@ -248,17 +248,17 @@ export default class Dapp extends React.Component<Props, State> {
               in &nbsp;this &nbsp;next &nbsp;p h a s e &nbsp; of the &nbsp;j o u r n e y please <br />
               u n d e r s t a n d &nbsp;&nbsp; that <br />
                
-              
+
               <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">🎮☠</span>&nbsp;h a r d m o d e&nbsp;&nbsp;i s&nbsp;&nbsp; o n <span className="emoji">☠🎮</span> <br />
+              <span className="emoji">🎮☠</span>&nbsp;h a r d m o d e&nbsp;&nbsp;i s&nbsp;&nbsp; o n <span className="emoji">☠🎮</span> <br />
               <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">⚠️</span>&nbsp;p r o c e e d &nbsp;&nbsp;at&nbsp;&nbsp; your&nbsp;own&nbsp;&nbsp;r i s k&nbsp;<span className="emoji">⚠️</span> <br />
+              <span className="emoji">⚠️</span>&nbsp;p r o c e e d &nbsp;&nbsp;at&nbsp;&nbsp; your&nbsp;own&nbsp;&nbsp;r i s k&nbsp;<span className="emoji">⚠️</span> <br />
               <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i &nbsp;am &nbsp;n o t h i n g &nbsp; without&nbsp; y o u.<br />
+              i &nbsp;am &nbsp;n o t h i n g &nbsp; without&nbsp; y o u.<br />
               <br />
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className="emoji">💜🎹💜🎧💜</span><br />
+              <span className="emoji">💜🎹💜🎧💜</span><br />
                <br />
-               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;view &nbsp;the &nbsp;c o n t r a c t&nbsp; here&nbsp;&nbsp;<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>
+               view &nbsp;the &nbsp;c o n t r a c t&nbsp; here&nbsp;&nbsp;<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>
             </div>
 
 
