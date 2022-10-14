@@ -117,7 +117,7 @@ export default class Dapp extends React.Component<Props, State> {
       const transaction = await this.contract.whitelistMint(amount, Whitelist.getProofForAddress(this.state.userAddress!), {value: this.state.tokenPrice.mul(amount)});
 
       toast.info(<>
-        transaction sent! please w a i t...<br/>
+        transaction sent! please w a i t. . . .<br/>
         <a href={this.generateTransactionUrl(transaction.hash)} target="_blank" rel="noopener">View on {this.state.networkConfig.blockExplorer.name}</a>
       </>);
 
