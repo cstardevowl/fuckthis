@@ -244,20 +244,6 @@ export default class Dapp extends React.Component<Props, State> {
             <div className="use-block-explorer">
               
               h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
-              if &nbsp; you &nbsp; c h o o s e &nbsp; to &nbsp;  &nbsp;c o l l e c t &nbsp;&nbsp; any of my&nbsp; i t e m s &nbsp; <br /> 
-              please&nbsp; u n d e r s t a n d &nbsp;&nbsp; that <br />
-              
-               
-
-              <br />
-              <span className="emoji">🎮☠</span>&nbsp;h a r d m o d e&nbsp;&nbsp;i s&nbsp;&nbsp; o n <span className="emoji">☠🎮</span> <br />
-              <br />
-              <span className="emoji">⚠️</span>&nbsp;p r o c e e d &nbsp;&nbsp;at&nbsp;&nbsp; your&nbsp;own&nbsp;&nbsp;r i s k&nbsp;<span className="emoji">⚠️</span> <br />
-              <br />
-              i &nbsp;am &nbsp;n o t h i n g &nbsp; without&nbsp; y o u.<br />
-              <br />
-              <span className="emoji">💜🎹💜🎧💜</span><br />
-               <br />
                view &nbsp;the &nbsp;c o n t r a c t&nbsp; here&nbsp;&nbsp;<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>
             </div>
 
