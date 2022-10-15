@@ -244,7 +244,7 @@ export default class Dapp extends React.Component<Props, State> {
             <div className="use-block-explorer">
               
               h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
-              max mint = 10 per transaction <br />
+              max mint = 100 per transaction <br />
               mint price = .01 ETH <br />
                view &nbsp;the &nbsp;c o n t r a c t&nbsp; here&nbsp;&nbsp;<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>
             </div>
