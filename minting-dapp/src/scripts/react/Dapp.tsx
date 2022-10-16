@@ -245,7 +245,7 @@ export default class Dapp extends React.Component<Props, State> {
               
               h e l l o. &nbsp; welcome &nbsp; t o   &nbsp;my   &nbsp;g e n e s i s &nbsp;  mint.<br />
               
-              mint price = .005 ETH <br />
+              mint price = .01 ETH <br />
                view &nbsp;the &nbsp;c o n t r a c t&nbsp; here&nbsp;&nbsp;<a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>
             </div>
 
